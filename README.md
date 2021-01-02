@@ -1,5 +1,5 @@
 # bash-applause-randomizer-osu
-literally two lines of code to manually change the applause.mp3 to something different at random
+manually change the applause.mp3 to something different at random from a pre-selected pool
 
 
 __________________________________________
