@@ -21,3 +21,5 @@ ctrl+alt+shift+s inside osu to reload the skin
 yea
 
 this is literally a hello world level program
+
+alternatively, download the zip lol
