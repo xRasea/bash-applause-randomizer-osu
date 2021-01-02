@@ -1,8 +1,9 @@
 # bash-applause-randomizer-osu
 literally two lines of code to manually change the applause.mp3 to something different at random
 
-how to use:
+
 __________________________________________
+how to use:
 
 run mp3 to applause.sh in a folder containing only mp3s you want to use for applauses.
 
